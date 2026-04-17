@@ -104,7 +104,9 @@ They interact with page objects and validate application behavior.
 ```bash
 mvn clean test
 ```
-
+```
+& "D:\download\apache-maven-3.9.15-bin\apache-maven-3.9.15\bin\mvn.cmd" clean test
+```
 ---
 
 ### ▶️ Run via IntelliJ
